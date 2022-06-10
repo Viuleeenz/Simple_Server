@@ -5,4 +5,4 @@ Note. This project aims to help myself with my daily tasks. Because of that, upd
 
 
 ## Updates
-2022/06/10 Server supports forwarding capabilities. More precisely, it's now possible through the switch `-f` to specify an endpoint to forwards **incoming POST request**
+2022/06/10 Server supports forwarding capability. More precisely, it's now possible through the switch `-f` to specify an endpoint to forwards **incoming POST request**
